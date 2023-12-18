@@ -1,4 +1,4 @@
-run openwechat.exe to start
+run openwechat.exe to start，buttons are useless
 
 点击openwechat.exe启动 按钮无功能 
 
